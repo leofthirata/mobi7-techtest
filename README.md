@@ -39,6 +39,8 @@ Para outros sistemas consulte os links:
 - MacOS: https://github.com/PackeTsar/Install-Python#macos-
 
 ## Como usar
+
+Na pasta da questão 1, abra um terminal e insira o seguinte comando:
 ```
 python3 techtest.py
 ```
