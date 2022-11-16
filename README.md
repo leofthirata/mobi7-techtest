@@ -1,8 +1,9 @@
 ## Projeto
-breve resumo do projeto
+
+Este repositório é designado às resoluções e propostas de projeto do teste do processo seletivo da Mobi7.
 
 ## Requisitos
-- python 3.8 ou superior
+- Python 3.8 ou superior
 - pandas 1.5.1
 
 ## Instalação
@@ -33,3 +34,11 @@ deactivate
 ```
 
 Para outros sistemas consulte os links:
+- Windows: https://github.com/PackeTsar/Install-Python#windows-
+- Linux: https://github.com/PackeTsar/Install-Python#linux-
+- MacOS: https://github.com/PackeTsar/Install-Python#macos-
+
+## Como usar
+```
+python3 techtest.py
+```
